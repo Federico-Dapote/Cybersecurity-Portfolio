@@ -1,6 +1,6 @@
 # Network Security
 
-Raccolta di progetti ed esercitazioni pratiche svolte durante il modulo dedicato ai fondamenti di rete e alla Network Security.
+A collection of projects and hands-on labs completed during the module on networking fundamentals and network security.
 
 ## Projects
 
@@ -8,36 +8,36 @@ Raccolta di progetti ed esercitazioni pratiche svolte durante il modulo dedicato
 
 One-week intensive group project focused on the design and security of a corporate network infrastructure.
 
-[Apri il progetto](Projects/Corporate-Network-Design-Build-Week/)
+[View project](Projects/Corporate-Network-Design-Build-Week/)
 
 ### VLAN Network Segmentation
 
-Configurazione e segmentazione di una rete attraverso subnet e VLAN.
+Network configuration and segmentation using subnets and VLANs.
 
-[Apri il progetto](Projects/VLAN-Network-Segmentation/)
+[View project](Projects/VLAN-Network-Segmentation/)
 
 ### pfSense Firewall Policies
 
-Configurazione di reti separate e policy firewall tramite pfSense, con verifica del traffico consentito e bloccato.
+Configuration of separate networks and firewall policies using pfSense, with verification of allowed and blocked traffic.
 
-[Apri il progetto](Projects/pfSense-Firewall-Policies/)
+[View project](Projects/pfSense-Firewall-Policies/)
 
 ## Labs
 
 ### Basic LAN Routing
 
-Configurazione e comunicazione tra reti LAN tramite router.
+Configuration of LANs and communication between them using routers.
 
-[Apri il laboratorio](Labs/Basic-LAN-Routing/)
+[View lab](Labs/Basic-LAN-Routing/)
 
 ### DHCP Server – Packet Tracer
 
-Configurazione e verifica di un server DHCP.
+Configuration and verification of a DHCP server.
 
-[Apri il laboratorio](Labs/DHCP-Server-Packet-Tracer/)
+[View lab](Labs/DHCP-Server-Packet-Tracer/)
 
 ### Basic Cryptography
 
-Esercitazione introduttiva su codifica e cifratura di base.
+An introductory lab on basic encoding and encryption.
 
-[Apri il laboratorio](Labs/Basic-Cryptography/)
+[View lab](Labs/Basic-Cryptography/)
