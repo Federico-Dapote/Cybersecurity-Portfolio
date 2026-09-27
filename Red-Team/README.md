@@ -28,6 +28,12 @@ Vulnerability assessment exercise using Nmap and Nessus to identify exposed serv
 
 [View lab](Labs/Vulnerability-Assessment-Nmap-Nessus/)
 
+### Buffer Overflow Exploitation – Immunity Debugger
+
+Memory corruption and exploit development project using Immunity Debugger and Mona, including crash analysis, EIP offset calculation, bad character identification, JMP ESP selection and reverse shell execution across multiple vulnerable inputs.
+
+[View project](Projects/Buffer-Overflow-Exploitation-Immunity-Debugger/)
+
 ## Group Projects
 
 ### Build Week 2
