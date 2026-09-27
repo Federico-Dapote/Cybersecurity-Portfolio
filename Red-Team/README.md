@@ -26,7 +26,7 @@ Hands-on web security project focused on Stored XSS exploitation in DVWA using J
 
 Vulnerability assessment exercise using Nmap and Nessus to identify exposed services, known vulnerabilities, risk levels and possible remediation actions.
 
-[View lab](Labs/Vulnerability-Assessment-Nmap-Nessus/)
+[View lab](Projects/Vulnerability-Assessment-Nmap-Nessus/)
 
 ## Group Projects
 
